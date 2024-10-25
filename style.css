@@ -1,0 +1,10 @@
+form {
+    text-align: center;
+    top: 155px;
+    position: relative;
+    background-color: #eee;
+    width: 30%;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 5px 10px #888888;
+}
